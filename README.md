@@ -10,8 +10,7 @@ I'm a passionate developer with a love for coding and open-source contributions.
 
 ## Projects
 Here are some of the projects I've been working on:
-- [Project 1](https://github.com/tianq02/project1): A brief description of what Project 1 does.
-- [Project 2](https://github.com/tianq02/project2): A brief description of what Project 2 does.
+- [aass3](https://github.com/tianq02/algorithm_assignment_2): 24 fall Advanced algorithms, homework 2
 
 ## GitHub Stats
 ![tianq02's GitHub stats](https://github-readme-stats.vercel.app/api?username=tianq02&show_icons=true)
