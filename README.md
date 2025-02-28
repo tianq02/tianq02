@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm tianq02 👋
 
-<!--
-**tianq02/tianq02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a passionate developer with a love for coding and open-source contributions. I enjoy working on various projects and continuously learning new technologies.
 
-Here are some ideas to get you started:
+## Skills
+- **Languages**: Python, Java, very modern C++, Rust
+- **Frameworks**: vue, springboot, pytorch
+- **Tools**: Git, Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+Here are some of the projects I've been working on:
+- [Project 1](https://github.com/tianq02/project1): A brief description of what Project 1 does.
+- [Project 2](https://github.com/tianq02/project2): A brief description of what Project 2 does.
+
+## GitHub Stats
+![tianq02's GitHub stats](https://github-readme-stats.vercel.app/api?username=tianq02&show_icons=true)
+
+## Get in Touch
+- open an issue in this repo
+
+Feel free to reach out if you have any questions or just want to connect!
