@@ -19,6 +19,9 @@
 ## Projects
 Here are some of the projects I've been working on:
 - [chd2openai](https://github.com/tianq02/chd2openai): 包装说唱带砖的AI平台web端的API，提供OpenAI兼容的端点
+- [Find-Pi](https://github.com/tianq02/FindPi)：扫局域网22端口找树莓派IP的PS脚本，需要PS7以上
+- [Hamood](https://github.com/tianq02/hamood)：展示模p乘法群结构的小脚本，是DH密钥交换课件的一部分
+- [charm-install-guide](https://github.com/tianq02/charm-install-guide)：Charm密码库安装指北
 
 ## GitHub Stats
 ![tianq02's GitHub stats](https://github-readme-stats.vercel.app/api?username=tianq02&show_icons=true)
