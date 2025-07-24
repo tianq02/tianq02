@@ -1,23 +1,30 @@
 # Hi there, I'm tianq02 👋
 
 ## About Me
-I'm a passionate developer with a love for coding and open-source contributions. I enjoy working on various projects and continuously learning new technologies.
+24岁，事学生  
+~Raspberry pi owner~
+
+研究方向还没定，不过前段时间在看隐私保护推理相关的文章
+ - bolt
+ - swift
+ - privdnn
+
+或许哪一天我会开个repo放笔记
 
 ## Skills
-- **Languages**: Python, Java, very modern C++, Rust
-- **Frameworks**: vue, springboot, pytorch
-- **Tools**: Git, Docker
+- **Languages**: Python, Java, very modern C++, ~Rust~
+- **Frameworks**: vue, springboot（别问，问就是若依CRUD精通）, pytorch
+- **Tools**: Git（仅限当云盘）, Docker
 
 ## Projects
 Here are some of the projects I've been working on:
-- [aass3](https://github.com/tianq02/algorithm_assignment_2): 24 fall Advanced algorithms, homework 2
+- [chd2openai](https://github.com/tianq02/chd2openai): 包装说唱带砖的AI平台web端的API，提供OpenAI兼容的端点
 
 ## GitHub Stats
 ![tianq02's GitHub stats](https://github-readme-stats.vercel.app/api?username=tianq02&show_icons=true)
 
 ## Get in Touch
 - open an issue in this repo
+- ~来实验室线下真人快打~
 
 Feel free to reach out if you have any questions or just want to connect!
-
-PR test.
