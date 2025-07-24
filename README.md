@@ -23,6 +23,8 @@ Here are some of the projects I've been working on:
 - [Hamood](https://github.com/tianq02/hamood)：展示模p乘法群结构的小脚本，是DH密钥交换课件的一部分
 - [charm-install-guide](https://github.com/tianq02/charm-install-guide)：Charm密码库安装指北
 
+也可以来[我的Gitee](https://gitee.com/tianq02)看看
+
 ## GitHub Stats
 ![tianq02's GitHub stats](https://github-readme-stats.vercel.app/api?username=tianq02&show_icons=true)
 
@@ -31,3 +33,5 @@ Here are some of the projects I've been working on:
 - ~来实验室线下真人快打~
 
 Feel free to reach out if you have any questions or just want to connect!
+
+# I use Debian, BTW
