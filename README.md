@@ -12,7 +12,7 @@
 或许哪一天我会开个repo放笔记
 
 ## Skills
-- **Languages**: Python, Java, very modern C++, ~Rust~
+- **Languages**: Python, Jvav, very modern C++, ~Rust~
 - **Frameworks**: vue, springboot（别问，问就是若依CRUD精通）, pytorch
 - **Tools**: Git（仅限当云盘）, Docker
 
