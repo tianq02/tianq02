@@ -23,7 +23,7 @@ Here are some of the projects I've been working on:
 - [Hamood](https://github.com/tianq02/hamood)：展示模p乘法群结构的小脚本，是DH密钥交换课件的一部分
 - [charm-install-guide](https://github.com/tianq02/charm-install-guide)：Charm密码库安装指北
 
-也可以来[我的Gitee](https://gitee.com/tianq02)看看
+也可以来[我的Gitee](https://gitee.com/tianq02)看看  
 also, [自建Gitea](https://git.tianq02.top/), **不要打它**
 
 ## GitHub Stats
