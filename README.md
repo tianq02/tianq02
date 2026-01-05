@@ -24,6 +24,7 @@ Here are some of the projects I've been working on:
 - [charm-install-guide](https://github.com/tianq02/charm-install-guide)：Charm密码库安装指北
 
 也可以来[我的Gitee](https://gitee.com/tianq02)看看
+also, [自建Gitea](https://git.tianq02.top/), **不要打它**
 
 ## GitHub Stats
 ![tianq02's GitHub stats](https://github-readme-stats.vercel.app/api?username=tianq02&show_icons=true)
